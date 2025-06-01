@@ -426,7 +426,7 @@ const smsProviderOptions = [
 ];
 
 const smtpProviderOptions = [
-    { value: 'amazon', label: 'Amazon SES' },
+    { value: 'amazon', label: 'Amazon' },
     { value: 'sendgrid', label: 'SendGrid' },
 ];
 
